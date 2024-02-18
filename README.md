@@ -1,5 +1,6 @@
 # 7777
 name is rizal
+[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
 
 
 <div align="center">
