@@ -6,6 +6,22 @@ name is rizal
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing Nodejs Docker build times — Layering explained.](https://medium.com/@visualbean/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
+- [Keeping up with trends](https://medium.com/@visualbean/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2)
+- [5 Quick NodeJS tips](https://medium.com/@visualbean/5-quick-nodejs-tips-fadbcd513d65?source=rss-35f0ba80b9cd------2)
+- [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2)
+- [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://codepen.io/visualbean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="visualbean" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alekcarlsen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alekcarlsen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1841212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1841212" height="30" width="40" /></a>
+<a href="https://medium.com/@visualbean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@visualbean" height="30" width="40" /></a>
+</p>
+
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi</div>
