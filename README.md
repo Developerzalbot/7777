@@ -78,4 +78,4 @@ Technologies and Languages </h2>
 
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+[![rizaldev](https://railway.app/button.svg)](https://railway.app)
